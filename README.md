@@ -1,4 +1,4 @@
-# C-projects
+# C-projects task 1
 
 Student Management system using c++ programming language
 here is its code:
